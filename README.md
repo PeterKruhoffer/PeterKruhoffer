@@ -1,10 +1,12 @@
-## Hi I am Peter
+## Hi I am Peter 👋
 
 ### I am a software developer
 ### I currently work with:
  - Typescript
  - Node
  - React
+
+#### Always learning new things
 
 <!--
 **PeterKruhoffer/PeterKruhoffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
